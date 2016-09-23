@@ -1,0 +1,10 @@
+.profile-image {
+
+    width: 16rem;
+    height: 16rem;
+    background: url("../img/rbsmall2.jpg") no-repeat;
+    background-size: cover;
+    border-radius: 3rem;
+    margin: 2.5rem auto 2.5rem auto;
+}
+}

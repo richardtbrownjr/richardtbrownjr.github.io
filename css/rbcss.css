@@ -22,7 +22,9 @@
 }
 
 .portfolio {
-    background-color: #BAC5D1;
+    .transparent{
+           background-color: #BAC5D1;
+       }
 }
 .portfolio h1 {
     border-bottom: 0.2rem solid #3AADC7;

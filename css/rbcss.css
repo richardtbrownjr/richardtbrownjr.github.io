@@ -27,7 +27,7 @@
        }
 }
 .portfolio h1 {
-    border-bottom: 0.2rem solid #3AADC7;
+    border-bottom: 0.2rem solid #99badd;
     margin-bottom: 7rem;
     color: #ffffff;
 }
@@ -37,7 +37,7 @@
     width: 34rem;
     height: 20rem;
     overflow: hidden;
-    background-color: #3AADC7;
+    background-color: #99badd;
     display: inline-block;
     color: #ffffff;
 }
